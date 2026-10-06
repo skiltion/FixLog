@@ -6,6 +6,17 @@ export type AiAnalysis = {
   keywords: string[];
 };
 
+export type SubmitDraft = {
+  title: string;
+  errorMessage: string;
+  description: string;
+  technology: string;
+  technologyVersion: string;
+  code: string;
+  tags: string;
+  analysis: AiAnalysis;
+};
+
 export type ErrorPost = {
   id: string;
   title: string;
