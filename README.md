@@ -76,4 +76,4 @@ Supabase에는 다음 데이터를 저장합니다.
 
 배포 완료 후 Vercel에서 생성된 주소를 아래에 입력합니다.
 
-**https://배포된-프로젝트-주소.vercel.app**
+**https://fix-log-nine.vercel.app/**
